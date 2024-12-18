@@ -1,1 +1,2 @@
-# project_python
+# Instagram Bot
+This script is a basic implementation of an Instagram automation bot with a graphical interface that allows users to easily set up and customize the bot's behavior. The bot uses the InstaPy library to automate Instagram interactions, such as following users based on specific criteria (followers/following, potency ratio, max followers, etc.). The Tkinter GUI provides a user-friendly way to interact with the bot without requiring command-line interaction.
